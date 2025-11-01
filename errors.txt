@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 16: expected statement.
-    Затхлая и занавешенная комната представляла собой убежище затравленного зверя. Если учесть, что этот зверь помешан на черном цвете и не выспался.
-                                                                                 ^
+File "game/script.rpy", line 23: expected statement.
+    "Взгляд его был пустым и тяжелым, будто залитым свинцом."R
+                                    ^
 
-Ren'Py Version: Ren'Py 8.3.7.25031702
-Fri Jun 27 21:34:20 2025
+Ren'Py Version: Ren'Py 8.5.0.25103002+nightly
+Sat Nov  1 15:10:05 2025
